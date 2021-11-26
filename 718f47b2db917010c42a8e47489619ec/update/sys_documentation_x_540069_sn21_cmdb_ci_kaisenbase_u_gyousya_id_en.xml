@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_gyousya_id" label="キャリア" language="en" table="x_540069_sn21_cmdb_ci_kaisenbase">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_gyousya_id</element>
+            <help/>
+            <hint/>
+            <label>キャリア</label>
+            <language>en</language>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <plural>キャリアs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-19 04:17:20</sys_created_on>
+            <sys_id>2af6c27bdb59f010c42a8e47489619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>キャリア</sys_name>
+            <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+            <sys_update_name>sys_documentation_x_540069_sn21_cmdb_ci_kaisenbase_u_gyousya_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-19 04:17:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

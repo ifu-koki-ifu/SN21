@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>基本回線情報 activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_540069_sn21_cmdb_ci_kaisenbase_activity.fields</name>
+        <read_roles/>
+        <suffix>x_540069_sn21</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 06:50:04</sys_created_on>
+        <sys_id>0f6397dbdb69f010c42a8e47489619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_540069_sn21_cmdb_ci_kaisenbase_activity.fields</sys_name>
+        <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+        <sys_update_name>sys_properties_0f6397dbdb69f010c42a8e47489619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 06:50:04</sys_updated_on>
+        <type>string</type>
+        <value>u_status,u_system_id,u_sv_code,u_gyousya_id,u_carrier_service_id,u_kaisen_name,u_tuushin_group_id</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=0f6397dbdb69f010c42a8e47489619ee"/>
+</record_update>

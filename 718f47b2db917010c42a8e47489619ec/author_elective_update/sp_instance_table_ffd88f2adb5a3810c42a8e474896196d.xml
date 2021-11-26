@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>name,u_status,u_system_kyoten_id.u_system_id,u_system_kyoten_id.u_system_id.u_kokyaku,u_system_kyoten_id.u_system_kyoten_name,model_id,u_hosyu_kaisya_id,u_hosyu_kyoten_id,u_kanshi_umu_flg,u_koteisisan_no</field_list>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>100</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">ed97076adb5a3810c42a8e4748961937</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-03 04:55:38</sys_created_on>
+        <sys_id>ffd88f2adb5a3810c42a8e474896196d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>ルータ情報一覧</sys_name>
+        <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+        <sys_update_name>sp_instance_table_ffd88f2adb5a3810c42a8e474896196d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-03 05:15:28</sys_updated_on>
+        <table>cmdb_ci_ip_router</table>
+        <title>ルータ情報一覧</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=ffd88f2adb5a3810c42a8e474896196d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN21">718f47b2db917010c42a8e47489619ec</application>
+        <file_path/>
+        <instance_id>3b394157db06d30089535d00cf961966</instance_id>
+        <instance_name>dev59707</instance_name>
+        <name>sp_instance_table_ffd88f2adb5a3810c42a8e474896196d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><display_field/><field_list>name,u_status,u_system_kyoten_id.u_system_id,u_system_kyoten_id.u_system_id.u_kokyaku,u_system_kyoten_id.u_system_kyoten_name,model_id,u_hosyu_kaisya_id,u_hosyu_kyoten_id,u_kanshi_umu_flg,u_koteisisan_no</field_list><filter/><glyph/><id/><maximum_entries>100</maximum_entries><order>1</order><order_by/><order_direction>asc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="1">ed97076adb5a3810c42a8e4748961937</sp_column><sp_page/><sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-03 04:55:38</sys_created_on><sys_id>ffd88f2adb5a3810c42a8e474896196d</sys_id><sys_mod_count>4</sys_mod_count><sys_name>ルータ情報一覧</sys_name><sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package><sys_policy/><sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope><sys_update_name>sp_instance_table_ffd88f2adb5a3810c42a8e474896196d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-03 05:15:28</sys_updated_on><table>cmdb_ci_ip_router</table><title>ルータ情報一覧</title><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=ffd88f2adb5a3810c42a8e474896196d"/></record_update>]]></payload>
+        <payload_hash>1093523468</payload_hash>
+        <record_name>ルータ情報一覧</record_name>
+        <reverted_from/>
+        <source>b18f47b2db917010c42a8e47489619ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-03 05:15:28</sys_created_on>
+        <sys_id>266d836edb5a3810c42a8e47489619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17baa1550a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-03 05:15:28</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>ea6d836ef15a3810f898a95b544d4bc6</update_guid>
+        <update_guid_history>ea6d836ef15a3810f898a95b544d4bc6:1093523468,964d032e635a3810510788a969e5d577:-1033868856,f00d0f2e545a3810f2d38b52d3b25e71:1672517265,ad6b8b6ae55a381069f523d6087fac63:1292641782,b7d88f2af45a3810d856bccedff4726f:907671688</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ルータ情報一覧">fd7e136adb9a3810c42a8e47489619ef</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-03 06:29:59</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>06eb2d97529c4ca4838fe41d4af7d0a4</sys_id>
+        <sys_metadata>ffd88f2adb5a3810c42a8e474896196d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ルータ情報一覧</sys_name>
+        <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+        <sys_scope_delete display_value="">34685f00c7bd49a892efd1636a3a6984</sys_scope_delete>
+        <sys_update_name>sp_instance_table_ffd88f2adb5a3810c42a8e474896196d</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_ffd88f2adb5a3810c42a8e474896196d">266d836edb5a3810c42a8e47489619c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-03 06:29:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

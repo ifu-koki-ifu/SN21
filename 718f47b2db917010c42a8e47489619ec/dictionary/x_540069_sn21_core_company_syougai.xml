@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="core_company" label="障害時連絡先情報" max_length="40" name="x_540069_sn21_core_company_syougai" sizeclass="8" type="collection">
+        <element label="業者" max_length="32" name="u_carrier_id" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element display="true" label="連絡先" max_length="64" name="u_renraku_name" type="string"/>
+        <index name="index">
+            <element name="u_carrier_id"/>
+        </index>
+    </element>
+</database>

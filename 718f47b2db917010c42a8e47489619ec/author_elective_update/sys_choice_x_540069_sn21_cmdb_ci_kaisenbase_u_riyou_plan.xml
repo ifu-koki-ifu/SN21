@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_riyou_plan" table="x_540069_sn21_cmdb_ci_kaisenbase" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_riyou_plan</element>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-21 08:43:00</sys_created_on>
+            <sys_id>25f6dde8dba97410c42a8e47489619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_riyou_plan</sys_name>
+            <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+            <sys_update_name>sys_choice_x_540069_sn21_cmdb_ci_kaisenbase_u_riyou_plan</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-21 08:43:00</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_riyou_plan</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>指定なし</label>
+            <language>en</language>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-21 08:43:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6de699e8dba97410c42a8e4748961943</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-21 08:43:51</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_riyou_plan</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ゾーン</label>
+            <language>en</language>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-21 08:43:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fdf699e8dba97410c42a8e474896191a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-21 08:43:53</sys_updated_on>
+            <value>１</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_riyou_plan</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>フラット</label>
+            <language>en</language>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-21 08:43:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2807512cdba97410c42a8e474896195a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-21 08:44:00</sys_updated_on>
+            <value>２</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_riyou_plan</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>全国一律</label>
+            <language>en</language>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-21 08:43:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b207512cdba97410c42a8e474896194f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-21 08:44:03</sys_updated_on>
+            <value>３</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_riyou_plan</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>専用タイプ</label>
+            <language>en</language>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-21 08:43:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6117912cdba97410c42a8e47489619c5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-21 08:44:06</sys_updated_on>
+            <value>４</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

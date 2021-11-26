@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="パスワード情報" max_length="40" name="x_540069_sn21_passwd" sizeclass="8" type="collection">
+        <element choice="3" default="01" label="アカウント名称" max_length="40" name="u_ac_key" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="【Cisco】Enable Secret" sequence="1" value="01"/>
+                <element inactive_on_update="false" label="【Cisco】Login Password" sequence="2" value="02"/>
+                <element inactive_on_update="false" label="【YAMAHA】Admin Password" sequence="3" value="03"/>
+                <element inactive_on_update="false" label="【YAMAHA】Login Password（Default）" sequence="4" value="04"/>
+                <element inactive_on_update="false" label="【YAMAHA】Login User" sequence="5" value="05"/>
+                <element inactive_on_update="false" label="【YAMAHA】Login password（Mind User）" sequence="6" value="06"/>
+            </choice>
+        </element>
+        <element label="アカウント名称 -最新- 設定値" max_length="100" name="u_ac_value" type="string"/>
+        <element label="Kiki key" mandatory="true" max_length="32" name="u_kiki_key" reference="cmdb_ci_ip_router" type="reference"/>
+        <index name="index">
+            <element name="u_kiki_key"/>
+        </index>
+    </element>
+</database>

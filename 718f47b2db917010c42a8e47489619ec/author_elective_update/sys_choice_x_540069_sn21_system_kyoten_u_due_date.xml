@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_due_date" table="x_540069_sn21_system_kyoten" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_due_date</element>
+            <name>x_540069_sn21_system_kyoten</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-30 06:35:07</sys_created_on>
+            <sys_id>0c009bd7db69f010c42a8e474896196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_due_date</sys_name>
+            <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+            <sys_update_name>sys_choice_x_540069_sn21_system_kyoten_u_due_date</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-30 06:35:07</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_due_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>指定なし</label>
+            <language>en</language>
+            <name>x_540069_sn21_system_kyoten</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-30 06:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17401b1bdb69f010c42a8e47489619a7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-30 06:37:38</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_due_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>前日</label>
+            <language>en</language>
+            <name>x_540069_sn21_system_kyoten</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-30 06:35:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a120d31bdb69f010c42a8e47489619f4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-30 06:36:55</sys_updated_on>
+            <value>1d</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_due_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2日前</label>
+            <language>en</language>
+            <name>x_540069_sn21_system_kyoten</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-30 06:36:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc309bd7db69f010c42a8e47489619aa</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-30 06:36:59</sys_updated_on>
+            <value>2d</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_due_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3日前</label>
+            <language>en</language>
+            <name>x_540069_sn21_system_kyoten</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-30 06:36:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3440971bdb69f010c42a8e4748961966</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-30 06:37:03</sys_updated_on>
+            <value>3d</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_due_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1週間前</label>
+            <language>en</language>
+            <name>x_540069_sn21_system_kyoten</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-30 06:35:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21df031bdb69f010c42a8e474896190f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-30 06:37:09</sys_updated_on>
+            <value>1w</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_due_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2週間前</label>
+            <language>en</language>
+            <name>x_540069_sn21_system_kyoten</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-30 06:35:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c400dfd7db69f010c42a8e47489619b5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-30 06:37:12</sys_updated_on>
+            <value>2w</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_due_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1ヵ月前</label>
+            <language>en</language>
+            <name>x_540069_sn21_system_kyoten</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-30 06:35:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5510d7d7db69f010c42a8e4748961991</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-30 06:37:17</sys_updated_on>
+            <value>1m</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

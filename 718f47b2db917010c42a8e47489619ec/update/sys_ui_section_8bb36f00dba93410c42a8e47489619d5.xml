@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="8bb36f00dba93410c42a8e47489619d5" sys_domain="global" table="x_540069_sn21_cmdb_ci_kaisenbase" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_system_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>56deb897db713810c42a8e4748961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sv_code</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>dadeb897db713810c42a8e4748961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_kaisen_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>5edeb897db713810c42a8e4748961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gyousya_id</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>dedeb897db713810c42a8e4748961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_tuushin_group_id</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>52deb897db713810c42a8e4748961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_riyou_plan</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>d2deb897db713810c42a8e4748961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_tyukei_umu_flg</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>56deb897db713810c42a8e4748961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vpn_daihyou</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>d6deb897db713810c42a8e4748961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vpn_no</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>5adeb897db713810c42a8e4748961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ip_addr_info</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>dadeb897db713810c42a8e4748961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vpnrouter_ip_address</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>5edeb897db713810c42a8e4748961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>dedeb897db713810c42a8e4748961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_status</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>52deb897db713810c42a8e4748961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_carrier_service_id</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>d2deb897db713810c42a8e4748961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_renrakusaki_id1</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>56deb897db713810c42a8e4748961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_kaisen_nw_zu</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>d6deb897db713810c42a8e4748961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_first_password</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>5adeb897db713810c42a8e4748961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_first_login</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>dadeb897db713810c42a8e4748961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_second_password</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>5edeb897db713810c42a8e4748961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_second_login</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>dedeb897db713810c42a8e4748961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ipsec_setsuzoku_id</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>52deb897db713810c42a8e4748961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ipsec_kanri_kyoten</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 06:16:38</sys_created_on>
+            <sys_id>d2deb897db713810c42a8e4748961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_sn21_cmdb_ci_kaisenbase" sys_domain="global" view="Default view">8bb36f00dba93410c42a8e47489619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 06:16:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>true</header>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>kaisen</sys_created_by>
+            <sys_created_on>2021-07-20 05:41:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bb36f00dba93410c42a8e47489619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_540069_sn21_cmdb_ci_kaisenbase</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+            <sys_update_name>sys_ui_section_8bb36f00dba93410c42a8e47489619d5</sys_update_name>
+            <sys_updated_by>kaisen</sys_updated_by>
+            <sys_updated_on>2021-07-20 05:41:05</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

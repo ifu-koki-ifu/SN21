@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_sv_code" table="x_540069_sn21_cmdb_ci_kaisenbase" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_sv_code</element>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-21 04:53:48</sys_created_on>
+            <sys_id>9c8224ecdbe57410c42a8e47489619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_sv_code</sys_name>
+            <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+            <sys_update_name>sys_choice_x_540069_sn21_cmdb_ci_kaisenbase_u_sv_code</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-21 04:53:48</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sv_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NL13:Mr.IP</label>
+            <language>en</language>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-21 04:53:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b62a0acdbe57410c42a8e4748961964</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-21 04:54:23</sys_updated_on>
+            <value>NL13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sv_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NL28:広域LAN</label>
+            <language>en</language>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-21 04:54:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98822cecdbe57410c42a8e47489619d2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-21 04:54:28</sys_updated_on>
+            <value>NL28</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sv_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NL29:InternetVPN</label>
+            <language>en</language>
+            <name>x_540069_sn21_cmdb_ci_kaisenbase</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-21 04:54:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f82acecdbe57410c42a8e4748961925</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-21 04:54:39</sys_updated_on>
+            <value>NL29</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

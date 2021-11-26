@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="システムID管理情報" max_length="40" name="x_540069_sn21_systemid" sizeclass="4" type="collection">
+        <element label="Test" max_length="32" name="test" reference="cmdb_ci_ip_router" type="reference"/>
+        <element label="Test2" mandatory="true" max_length="32" name="test2" reference="cmdb_ci_ip_router" type="reference"/>
+        <element label="顧客名" mandatory="true" max_length="32" name="u_kokyaku" reference="core_company" type="reference"/>
+        <element label="ネットワーク運用書" max_length="40" name="u_nw_kouseizu" type="file_attachment"/>
+        <element label="CFIA" max_length="40" name="u_sekinin_bunkai" type="file_attachment"/>
+        <element display="true" label="システムID" mandatory="true" max_length="7" name="u_system_id" type="string"/>
+        <element label="システム構成図" max_length="40" name="u_system_kouseizu" type="file_attachment"/>
+        <element label="システム名" mandatory="true" max_length="80" name="u_system_name" type="string"/>
+        <index name="index">
+            <element name="test2"/>
+        </index>
+        <index name="index2">
+            <element name="test"/>
+        </index>
+        <index name="index3">
+            <element name="u_kokyaku"/>
+        </index>
+    </element>
+</database>

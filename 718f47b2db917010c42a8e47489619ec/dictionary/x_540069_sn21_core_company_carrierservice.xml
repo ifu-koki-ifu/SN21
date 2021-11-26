@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="core_company" label="キャリアサービス" max_length="40" name="x_540069_sn21_core_company_carrierservice" sizeclass="20" type="collection">
+        <element display="true" label="キャリアサービス名" max_length="64" name="u_carrier_service_name" type="string"/>
+        <element label="キャリア" max_length="32" name="u_gyousya" reference="core_company" type="reference"/>
+        <index name="index">
+            <element name="u_gyousya"/>
+        </index>
+    </element>
+</database>

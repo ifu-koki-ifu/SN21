@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>システム管理</name>
+        <order/>
+        <roles>x_540069_sn21.systemid_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-16 07:23:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>11b457f6db917010c42a8e47489619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>システム管理</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+        <sys_update_name>sys_ui_application_11b457f6db917010c42a8e47489619d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-16 07:23:01</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN21">718f47b2db917010c42a8e47489619ec</application>
+        <file_path/>
+        <instance_id>3b394157db06d30089535d00cf961966</instance_id>
+        <instance_name>dev59707</instance_name>
+        <name>sys_ui_application_11b457f6db917010c42a8e47489619d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>システム管理</name><order/><roles>x_540069_sn21.systemid_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-16 07:23:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>11b457f6db917010c42a8e47489619d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>システム管理</sys_name><sys_overrides/><sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package><sys_policy/><sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope><sys_update_name>sys_ui_application_11b457f6db917010c42a8e47489619d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-16 07:23:01</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>-922713067</payload_hash>
+        <record_name>システム管理</record_name>
+        <reverted_from/>
+        <source>e6b80715db567410c42a8e4748961915</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-16 07:23:01</sys_created_on>
+        <sys_id>d1b457f6db917010c42a8e47489619da</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>17aae327ad30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-30 07:42:40</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>1db457f6c491701026eb3e38cd0f2cd9</update_guid>
+        <update_guid_history>1db457f6c491701026eb3e38cd0f2cd9:-922713067</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-16 10:01:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>5427a7c52eda493ea9bd4c1458bdee89</sys_id>
+        <sys_metadata>11b457f6db917010c42a8e47489619d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>システム管理</sys_name>
+        <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+        <sys_scope_delete display_value="">34685f00c7bd49a892efd1636a3a6984</sys_scope_delete>
+        <sys_update_name>sys_ui_application_11b457f6db917010c42a8e47489619d8</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_11b457f6db917010c42a8e47489619d8">d1b457f6db917010c42a8e47489619da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-16 10:01:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

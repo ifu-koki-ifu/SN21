@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="システム拠点管理" max_length="40" name="x_540069_sn21_system_kyoten" sizeclass="14" type="collection">
+        <element label="現地返却可否" max_length="40" name="u_availability_local_return" type="boolean"/>
+        <element label="現地送付有無" max_length="40" name="u_availability_local_sending" type="boolean"/>
+        <element label="駐車場有無" max_length="40" name="u_availability_parking_lot" type="boolean"/>
+        <element choice="3" default="0" label="提出期限" max_length="40" name="u_due_date" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="指定なし" sequence="1" value="0"/>
+                <element inactive_on_update="false" label="前日" sequence="2" value="1d"/>
+                <element inactive_on_update="false" label="2日前" sequence="3" value="2d"/>
+                <element inactive_on_update="false" label="3日前" sequence="4" value="3d"/>
+                <element inactive_on_update="false" label="1週間前" sequence="5" value="1w"/>
+                <element inactive_on_update="false" label="2週間前" sequence="6" value="2w"/>
+                <element inactive_on_update="false" label="1ヵ月前" sequence="7" value="1m"/>
+            </choice>
+        </element>
+        <element label="拠点" mandatory="true" max_length="32" name="u_kyoten_id" reference="cmn_location" type="reference"/>
+        <element label="必要項目" max_length="256" name="u_requirements" type="string"/>
+        <element label="システムID" mandatory="true" max_length="32" name="u_system_id" reference="x_540069_sn21_systemid" type="reference" use_dependent_field="true"/>
+        <element display="true" label="拠点名" mandatory="true" max_length="128" name="u_system_kyoten_name" type="string"/>
+        <element label="担当者会社" max_length="64" name="u_tantou_kaisya" type="string"/>
+        <element label="担当者名" max_length="128" name="u_tantou_name" type="string"/>
+        <element label="担当者所属" max_length="64" name="u_tantou_syozoku" type="string"/>
+        <element label="担当者TEL" max_length="20" name="u_tantou_tel_no" type="string"/>
+        <index name="index">
+            <element name="u_system_id"/>
+        </index>
+        <index name="index2">
+            <element name="u_kyoten_id"/>
+        </index>
+    </element>
+</database>

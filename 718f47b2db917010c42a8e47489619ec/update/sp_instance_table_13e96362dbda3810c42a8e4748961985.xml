@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>name,u_status,u_system_kyoten_id.u_system_id.u_system_id,u_system_kyoten_id.u_system_id.u_system_name,model_id,u_hosyu_kaisya_id,u_hosyu_kyoten_id,u_koteisisan_no</field_list>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>50</maximum_entries>
+        <order>1</order>
+        <order_by>name</order_by>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">819e536adb9a3810c42a8e474896199f</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-03 07:20:02</sys_created_on>
+        <sys_id>13e96362dbda3810c42a8e4748961985</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ルータ情報一覧</sys_name>
+        <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+        <sys_update_name>sp_instance_table_13e96362dbda3810c42a8e4748961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-03 07:25:51</sys_updated_on>
+        <table>cmdb_ci_ip_router</table>
+        <title>ルータ情報一覧</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=13e96362dbda3810c42a8e4748961985"/>
+</record_update>

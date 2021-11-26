@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">819e536adb9a3810c42a8e474896199f</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from URL Definition">8ae61f55cb21020000f8d856634c9c93</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-03 06:32:41</sys_created_on>
+        <sys_id>ed1f5b2adb9a3810c42a8e4748961992</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ルータ情報一覧</sys_name>
+        <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+        <sys_update_name>sp_instance_table_ed1f5b2adb9a3810c42a8e4748961992</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-03 06:33:22</sys_updated_on>
+        <table/>
+        <title>ルータ情報一覧</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"use_instance_title": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"enable_filter": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=ed1f5b2adb9a3810c42a8e4748961992"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN21">718f47b2db917010c42a8e47489619ec</application>
+        <file_path/>
+        <instance_id>3b394157db06d30089535d00cf961966</instance_id>
+        <instance_name>dev59707</instance_name>
+        <name>sp_instance_table_ed1f5b2adb9a3810c42a8e4748961992</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_table"&gt;&lt;sp_instance_table action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field/&gt;&lt;field_list/&gt;&lt;filter/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;5&lt;/maximum_entries&gt;&lt;order&gt;1&lt;/order&gt;&lt;order_by/&gt;&lt;order_direction&gt;asc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;819e536adb9a3810c42a8e474896199f&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Data Table from URL Definition"&gt;8ae61f55cb21020000f8d856634c9c93&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_table&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-09-03 06:32:41&lt;/sys_created_on&gt;&lt;sys_id&gt;ed1f5b2adb9a3810c42a8e4748961992&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;ルータ情報一覧&lt;/sys_name&gt;&lt;sys_package display_value="SN21" source="x_540069_sn21"&gt;718f47b2db917010c42a8e47489619ec&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SN21"&gt;718f47b2db917010c42a8e47489619ec&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_table_ed1f5b2adb9a3810c42a8e4748961992&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-09-03 06:33:22&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;title&gt;ルータ情報一覧&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"use_instance_title": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"enable_filter": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_table&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=ed1f5b2adb9a3810c42a8e4748961992"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1217896446</payload_hash>
+        <record_name>ルータ情報一覧</record_name>
+        <reverted_from/>
+        <source>b18f47b2db917010c42a8e47489619ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-03 06:33:22</sys_created_on>
+        <sys_id>a73f576adb9a3810c42a8e4748961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17baa5ca1a40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-03 06:33:22</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>6f3f576a3a9a3810702e4176eebab542</update_guid>
+        <update_guid_history>6f3f576a3a9a3810702e4176eebab542:1217896446,a51f5b2a5c9a381033215560df11b794:-379408024</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ルータ情報一覧">4e7f1f6adb9a3810c42a8e4748961966</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-03 06:34:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>02205df5737f4a4784cf7fbeaffbb901</sys_id>
+        <sys_metadata>ed1f5b2adb9a3810c42a8e4748961992</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ルータ情報一覧</sys_name>
+        <sys_package display_value="SN21" source="x_540069_sn21">718f47b2db917010c42a8e47489619ec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN21">718f47b2db917010c42a8e47489619ec</sys_scope>
+        <sys_scope_delete display_value="">34685f00c7bd49a892efd1636a3a6984</sys_scope_delete>
+        <sys_update_name>sp_instance_table_ed1f5b2adb9a3810c42a8e4748961992</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_ed1f5b2adb9a3810c42a8e4748961992">a73f576adb9a3810c42a8e4748961943</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-03 06:34:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

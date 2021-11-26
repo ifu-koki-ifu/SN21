@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci" label="基本回線情報" max_length="40" name="x_540069_sn21_cmdb_ci_kaisenbase" sizeclass="17" type="collection">
+        <element label="キャリアサービス名" max_length="32" name="u_carrier_service_id" reference="x_540069_sn21_core_company_carrierservice" reference_qual="javascript: 'u_gyousya='+current.u_gyousya_id.toString()" type="reference" use_reference_qualifier="advanced"/>
+        <element label="第一認証ログイン" max_length="20" name="u_first_login" type="string"/>
+        <element label="第一認証パスワード" max_length="20" name="u_first_password" type="string"/>
+        <element label="キャリア" mandatory="true" max_length="32" name="u_gyousya_id" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element label="IP-Sec管理拠点" max_length="20" name="u_ipsec_kanri_kyoten" type="string"/>
+        <element label="IP-Sec接続ID" max_length="20" name="u_ipsec_setsuzoku_id" type="string"/>
+        <element label="IPアドレス情報" max_length="255" name="u_ip_addr_info" type="string"/>
+        <element display="true" label="回線名称" mandatory="true" max_length="255" name="u_kaisen_name" type="string"/>
+        <element label="回線NW図" max_length="255" name="u_kaisen_nw_zu" type="file_attachment"/>
+        <element label="網連絡先" max_length="32" name="u_renrakusaki_id1" reference="x_540069_sn21_core_company_syougai" type="reference"/>
+        <element choice="3" default="0" label="利用プラン" max_length="36" name="u_riyou_plan" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="指定なし" sequence="1" value="0"/>
+                <element inactive_on_update="false" label="ゾーン" sequence="2" value="１"/>
+                <element inactive_on_update="false" label="フラット" sequence="3" value="２"/>
+                <element inactive_on_update="false" label="全国一律" sequence="4" value="３"/>
+                <element inactive_on_update="false" label="専用タイプ" sequence="5" value="４"/>
+            </choice>
+        </element>
+        <element label="第二認証ログイン" max_length="20" name="u_second_login" type="string"/>
+        <element label="第二認証パスワード" max_length="20" name="u_second_password" type="string"/>
+        <element choice="3" default="2,9" label="ステータス" max_length="40" name="u_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="稼動中" sequence="1" value="2,9"/>
+                <element inactive_on_update="false" label="無効" sequence="2" value="9,9"/>
+            </choice>
+        </element>
+        <element choice="3" default="NL13" label="サービスコード" mandatory="true" max_length="40" name="u_sv_code" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="NL13:Mr.IP" sequence="1" value="NL13"/>
+                <element inactive_on_update="false" label="NL28:広域LAN" sequence="2" value="NL28"/>
+                <element inactive_on_update="false" label="NL29:InternetVPN" sequence="3" value="NL29"/>
+            </choice>
+        </element>
+        <element label="システムID" mandatory="true" max_length="32" name="u_system_id" reference="x_540069_sn21_systemid" type="reference"/>
+        <element label="通信グループID" max_length="12" name="u_tuushin_group_id" type="string"/>
+        <element label="中継網の有無" max_length="40" name="u_tyukei_umu_flg" type="boolean"/>
+        <element label="VPN保守用ルータIPアドレス" max_length="39" name="u_vpnrouter_ip_address" type="string"/>
+        <element label="VPN代表" max_length="64" name="u_vpn_daihyou" type="string"/>
+        <element label="VPN番号" max_length="30" name="u_vpn_no" type="string"/>
+    </element>
+</database>
